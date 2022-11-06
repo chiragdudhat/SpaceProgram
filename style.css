@@ -1,0 +1,47 @@
+body{
+    background-image: url('background-home-desktop.jpg') ;
+    color: aliceblue;   
+    border: solid 40px;
+    margin: auto;
+}
+
+.space{
+    font-size: 118px;
+    display: inline;
+}
+.header{
+    padding: 25px 25px;
+    width: 500px;
+    margin-top: 30px;
+    backdrop-filter: blur(50px);
+    position: relative;
+    margin-left: auto;
+}
+span{
+    padding: 15px;
+}
+.content{
+    width:350px  ;
+    height: 300px;
+    text-align: justify;
+    text-justify: inter-word;
+    margin-left: 120px;
+    margin-top: 160px;
+}
+h2{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  width: 200px;
+  border: 3px solid;
+  border-radius: 50%;
+  background-color: aliceblue;
+  color: black;
+  
+  margin: 20px 100px ;
+}
+
+.explore{
+    display: inline;
+}
